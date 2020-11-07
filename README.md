@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-✨ My name is **Abdullah Oğuz**, I'm student on Managment Information Systems in Pamukkale University (4th) from Turkey. <br>
+✨ My name is **Abdullah**, I'm student on Managment Information Systems in Pamukkale University (4th) from Turkey. <br>
 
 
 🌱 I’m currently learning mobile development
