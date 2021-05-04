@@ -17,7 +17,7 @@
 
 ### 💼 Job
 
-I'm working as a Software Intern in [MDP Group](https://mdpgroup.com/)
+I'm working as a Software Developer in [MDP Group](https://mdpgroup.com/)
 
 ###  💻 I'm currently working/learning on
 
