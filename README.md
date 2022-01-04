@@ -3,7 +3,7 @@
 ✨ My name is **Abdullah**, I'm student on Managment Information Systems in Pamukkale University (4th) from Turkey. <br>
 
 
-🌱 I’m currently learning mobile development
+🌱 I’m currently develop Mobile & Backend area with Flutter and Node.js
 
 
 ### 📌 GitHub Stats and Top Languages
