@@ -1,6 +1,6 @@
 ## Hello World! 👋
 
-✨ My name is **Abdullah**, I'm student on Managment Information Systems in Pamukkale University (4th) from Turkey. <br>
+✨ My name is **Abdullah**, I'm Backend & Mobile Developer <br>
 
 
 🌱 I’m currently develop Mobile & Backend area with Flutter and Node.js
@@ -17,7 +17,7 @@
 
 ### 💼 Job
 
-I'm working as a Software Developer in [MDP Group](https://mdpgroup.com/)
+I'm working as a Backend & Mobile Developer in [MDP Group](https://mdpgroup.com/)
 
 ###  💻 I'm currently working/learning on
 
