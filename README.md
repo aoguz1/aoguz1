@@ -3,7 +3,7 @@
 ✨ My name is **Abdullah**, I'm Backend & Mobile Developer <br>
 
 
-🌱 I’m currently develop Mobile & Backend area with Flutter and Node.js
+🌱 I’m currently develop Mobile & Backend area with Swift, Flutter and Node.js
 
 
 ### 📌 GitHub Stats and Top Languages
