@@ -15,10 +15,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoguz1&theme=dracula&layout=compact&hide=html,css,hack" alt="ETop Langs" /> 
 </p>
 
-### 💼 Job
-
-I'm working as a Backend & Mobile Developer in [MDP Group](https://mdpgroup.com/)
-
 ###  💻 I'm currently working/learning on
 
 <code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
